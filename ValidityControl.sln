@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidityControl", "ValidityControl\ValidityControl.csproj", "{F2C25303-4A1C-427A-B288-97493CAFADFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C25303-4A1C-427A-B288-97493CAFADFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C25303-4A1C-427A-B288-97493CAFADFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C25303-4A1C-427A-B288-97493CAFADFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C25303-4A1C-427A-B288-97493CAFADFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA0A5C7-30F2-4A08-A5A8-796C208C6490}
+	EndGlobalSection
+EndGlobal
